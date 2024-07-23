@@ -19,7 +19,7 @@ Easycap Stream App is a Flutter application designed to interact with an EasyCAP
 
    ```bash
    git clone https://github.com/rohanworld/Easycap-Streamer.git
-   cd easycap-stream-app
+   cd Easycap-Streame
    ```
 
 3. **Connect Device**:
